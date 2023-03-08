@@ -21,6 +21,10 @@ path = "src/chapter_1_getting_started/examples/01.01_hello_world/hello_world.rs"
 name = "exercise_1_1"
 path = "src/chapter_1_getting_started/exercises/01.01/01_01.rs"
 
+[[bin]]
+name = "exercise_1_2"
+path = "src/chapter_1_getting_started/exercises/01.02/01_02.rs"
+
 
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
