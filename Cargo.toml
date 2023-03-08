@@ -1,0 +1,27 @@
+[package]
+authors = ["whoamih4csor <https://github.com/whoamih4csor>"]
+name = "c90_rust"
+version = "0.1.0"
+edition = "2021"
+
+#########EXAMPLES###########
+
+### CHAPTER 1
+[[bin]]
+name = "example_1_1"
+path = "src/chapter_1_getting_started/examples/01.01_hello_world/hello_world.rs"
+
+
+
+
+#########EXERSICES###########
+
+### CHAPTER 1
+[[bin]]
+name = "exercise_1_1"
+path = "src/chapter_1_getting_started/exercises/01.01/01_01.rs"
+
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[dependencies]
