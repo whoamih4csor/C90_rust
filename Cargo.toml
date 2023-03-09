@@ -11,6 +11,9 @@ edition = "2021"
 name = "example_1_1"
 path = "src/chapter_1_getting_started/examples/01.01_hello_world/hello_world.rs"
 
+[[bin]]
+name = "example_1_2"
+path = "src/chapter_1_getting_started/examples/01.02_variables_and_arithmetic_expressions/variables_and_arithmetic_expressions.rs"
 
 
 
