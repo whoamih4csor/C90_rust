@@ -15,6 +15,9 @@ path = "src/chapter_1_getting_started/examples/01.01_hello_world/hello_world.rs"
 name = "example_1_2"
 path = "src/chapter_1_getting_started/examples/01.02_variables_and_arithmetic_expressions/variables_and_arithmetic_expressions.rs"
 
+[[bin]]
+name = "example_1_2_v2"
+path = "src/chapter_1_getting_started/examples/01.02_variables_and_arithmetic_expressions/variables_and_arithmetic_expressions_v2.rs"
 
 
 #########EXERSICES###########
